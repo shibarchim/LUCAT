@@ -1,2 +1,2 @@
 # LUCAT
-Low-altitude Unmanned Collision Avoidance and Tracking  
+Low-altitude UAS Collision Avoidance and Tracking  
